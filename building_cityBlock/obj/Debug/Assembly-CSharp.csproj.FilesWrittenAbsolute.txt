@@ -1,0 +1,17 @@
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/UnityEngine.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/UnityEditor.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/Mono.Cecil.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/Unity.DataContract.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/wilson/Desktop/Lab/building_cityBlock/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/obj/Debug/Assembly-CSharp.dll
+/Users/wilson/Desktop/Lab/building_cityBlock/obj/Debug/Assembly-CSharp.dll.mdb
